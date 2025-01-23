@@ -183,11 +183,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `<a 
       class="text-primary" href="https://github.com/aperbet56"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >aperbet56</a>`,
 
   enablePWA: true,
 };
