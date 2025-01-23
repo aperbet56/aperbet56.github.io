@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 24, // How many projects to display.
+        limit: 12, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio de Annabelle PERBET',
+    title: 'Portfolio Annabelle PERBET',
     description: '',
     imageURL: '',
   },
@@ -123,7 +123,7 @@ const CONFIG = {
     },
     {
       name: 'Master 2 Recherche Espagnol',
-      body: 'Réalisation d'un mémoire entiérement en espagnol',
+      body: "Réalisation d'un mémoire entiérement en espagnol",
       year: 'Septembre 2013-Juin 2014',
       link: 'https://example.com',
     },
@@ -134,7 +134,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
     {
-      name: 'Licence d'Espagnol',
+      name: "Licence d'Espagnol",
       body: 'Cours en espagnol, civilisations, rédactions de commentaires de texte, traductions de texte...',
       year: 'Septembre 2009-Juin 2012',
       link: 'https://example.com',
