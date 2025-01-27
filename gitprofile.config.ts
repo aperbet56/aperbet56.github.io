@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             "Création d'une extension Chrome nommé page print qui va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.",
           imageUrl:
-            'https://github.com/aperbet56/page_print_chrome_extension/blob/main/icons/icon-16.png',
+            'https://fr.freepik.com/vecteurs-libre/illustration-industrie-impression_12893217.htm#fromView=search&page=1&position=15&uuid=7adc0b65-57ca-4f4f-8875-824f1a1148fe&query=print',
           link: 'https://github.com/aperbet56/page_print_chrome_extension',
         },
         {
