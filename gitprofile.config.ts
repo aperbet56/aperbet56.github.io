@@ -101,23 +101,37 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'OpenClassrooms',
+      position: 'Développeur web apprenant : TRavail sur des projets professionnalisants',
+      from: 'Mars 2022',
+      to: 'Novembre 2022',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: 'Garde d'enfants',
+      from: 'Mars 2017',
+      to: 'Août 2018',
+      companyLink: '',
+    },
+     {
+      company: '',
+      position: 'Garde d'enfants',
+      from: 'Septembre 2014',
+      to: 'Avril 2016',
+      companyLink: '',
+    },
+    {
+      company: 'Ecole publique : Les Vastres',
+      position: 'Accompagnement du professeur des écoles',
+      from: 'Avril 2012',
+      to: 'Mai 2012',
+      companyLink: '',
     },
   ],
   certifications: [
     {
-      name: 'Titre RNCP de niveau 5 : Développeur-intégrateur web',
+      name: 'Titre RNCP de niveau 5 : Développeur - intégrateur web',
       body: "Apprentissage de langages de programmation et réalisation de projets profesionnalisants comme la construction des sites web responsives et dynamiques, la création des APIs et des bases de données sécurisées, l'optimisation les performances et la réalisation la maintenance de sites web déjà existants, l'amélioration du référencement naturel (SEO)...",
       year: 'Mars 2022 - Novembre 2022',
       link: 'https://example.com',
@@ -150,13 +164,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'OpenClassrooms',
-      degree: 'Titre RNCP de niveau 5 : développeur-intégrateur web',
+      degree: 'Titre RNCP de niveau 5 : Développeur - intégrateur web',
       from: '2022',
       to: '2022',
     },
     {
       institution: 'Université Jean-Monnet de Saint-Etienne',
-      degree: 'Licence et Master espagnol',
+      degree: 'Licence et Master Espagnol',
       from: '2009',
       to: '2014',
     },
@@ -168,7 +182,7 @@ const CONFIG = {
     },
     {
       institution: 'Collège Saint-Pierre Saint-Anne Yssingeaux',
-      degree: 'Brevet',
+      degree: 'Brevet des collèges',
       from: '2002',
       to: '2006',
     },
