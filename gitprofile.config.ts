@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             "Création d'une extension Chrome nommé page print va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.",
           imageUrl:
-            'https://github.com/aperbet56/page_print_chrome_extension/blob/main/icons/icon-48.png',
+            'https://github.com/aperbet56/page_print_chrome_extension/blob/main/icons/icon-16.png',
           link: 'https://github.com/aperbet56/page_print_chrome_extension',
         },
         {
