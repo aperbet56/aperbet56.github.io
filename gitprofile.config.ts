@@ -109,14 +109,14 @@ const CONFIG = {
     },
     {
       company: '',
-      position: 'Garde d'enfants',
+      position: "Garde d'enfants",
       from: 'Mars 2017',
       to: 'Août 2018',
       companyLink: '',
     },
      {
       company: '',
-      position: 'Garde d'enfants',
+      position: "Garde d'enfants",
       from: 'Septembre 2014',
       to: 'Avril 2016',
       companyLink: '',
