@@ -91,7 +91,7 @@ const CONFIG = {
     'HTML5',
     'Bootstrap5',
     'CSS3',
-    'Sass'
+    'Sass',
     'Express',
     'MongoDb',
     'Github',
@@ -124,7 +124,7 @@ const CONFIG = {
     },
     {
       name: 'Master 2 Recherche Espagnol',
-      body: "Réalisation d'un mémoire entiérement en espagnol, traduction de textes espagnol en français et de textes français en espagnol",
+      body: "Réalisation d'un mémoire entièrement en espagnol, traduction de textes espagnol en français et de textes français en espagnol",
       year: 'Septembre 2013 - Juin 2014',
       link: 'https://example.com',
     },
