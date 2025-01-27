@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Extension Chrome : Page Print',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            "Création d'une extension Chrome nommé page print va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.",
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/aperbet56/page_print_chrome_extension/blob/main/icons/icon-48.png',
+          link: 'https://github.com/aperbet56/page_print_chrome_extension',
         },
         {
           title: 'Project Name',
