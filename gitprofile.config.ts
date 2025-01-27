@@ -102,7 +102,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'OpenClassrooms',
-      position: 'Développeur web apprenant : TRavail sur des projets professionnalisants',
+      position: 'Développeur web apprenant : Travail sur des projets professionnalisants',
       from: 'Mars 2022',
       to: 'Novembre 2022',
       companyLink: '',
