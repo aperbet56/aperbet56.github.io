@@ -130,7 +130,7 @@ const CONFIG = {
     },
     {
       name: 'Master 1 Recherche Espagnol',
-      body: "Réalisation d'un mémoire entiérement en espagnol, traduction de textes espagnol en français et de textes français en espagnol",
+      body: "Réalisation d'un mémoire entièrement en espagnol, traduction de textes espagnol en français et de textes français en espagnol",
       year: 'Septembre 2012 - Juin 2013',
       link: 'https://example.com',
     },
@@ -150,19 +150,19 @@ const CONFIG = {
   educations: [
     {
       institution: 'OpenClassrooms',
-      degree: 'Titre RNCP de niveau 5',
+      degree: 'Titre RNCP de niveau 5 : développeur-intégrateur web',
       from: '2022',
       to: '2022',
     },
     {
       institution: 'Université Jean-Monnet de Saint-Etienne',
-      degree: 'Licence et Master',
+      degree: 'Licence et Master espagnol',
       from: '2009',
       to: '2014',
     },
     {
       institution: 'Lycée Sacré-Coeur Yssingeaux',
-      degree: 'Baccalauréat',
+      degree: 'Baccalauréat économique et sociale',
       from: '2006',
       to: '2009',
     },
