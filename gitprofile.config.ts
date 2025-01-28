@@ -35,17 +35,17 @@ const CONFIG = {
         {
           title: 'Extension Chrome : Page Print',
           description:
-            "Création d'une extension Chrome nommé page print qui va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.",
+            "Création d'une extension Chrome nommée page print qui va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.",
           imageUrl:
             'https://img.freepik.com/vecteurs-libre/imprimante-illustration-papier_138676-2396.jpg?t=st=1738080164~exp=1738083764~hmac=35ba70cd0201490ba6825da972e4ddfdc3176d85382e7f60fb197039ff76dafa&w=740',
           link: 'https://github.com/aperbet56/page_print_chrome_extension',
         },
         {
-          title: 'Project Name',
+          title: 'Extension Chrome Page translator',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            "Création d'une extension Chrome nommée page translator qui va permettre à l'utilisateur de traduire dans la langue choisie la page web sur laquelle il se trouve.",
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://img.freepik.com/vecteurs-libre/illustration-plate-journee-internationale-langue-maternelle_23-2149219243.jpg?t=st=1738080546~exp=1738084146~hmac=8536b5412d9a0ae41468cd5a7cb67c9cbed6fbd7d37a43f1771ecdbe1fdddc83&w=740',
           link: 'https://example.com',
         },
       ],
