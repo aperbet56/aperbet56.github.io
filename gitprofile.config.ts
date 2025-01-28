@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             "Création d'une extension Chrome nommée page translator qui va permettre à l'utilisateur de traduire dans la langue choisie la page web sur laquelle il se trouve.",
           imageUrl:
-            'https://img.freepik.com/vecteurs-libre/illustration-plate-journee-internationale-langue-maternelle_23-2149219243.jpg?t=st=1738080546~exp=1738084146~hmac=8536b5412d9a0ae41468cd5a7cb67c9cbed6fbd7d37a43f1771ecdbe1fdddc83&w=740',
+            'https://img.freepik.com/vecteurs-libre/illustration-dessinee-main-services-traduction_23-2151109064.jpg?t=st=1738081229~exp=1738084829~hmac=ca2cddb94756b80b361b55bdfc5ac799e69b52c6ab17b99be2587b7cfaf36b7b&w=740',
           link: 'https://example.com',
         },
       ],
@@ -132,7 +132,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Titre RNCP de niveau 5 : Développeur - intégrateur web',
-      body: "Apprentissage de langages de programmation et réalisation de projets profesionnalisants comme la construction des sites web responsives et dynamiques, la création des APIs et des bases de données sécurisées, l'optimisation les performances et la réalisation la maintenance de sites web déjà existants, l'amélioration du référencement naturel (SEO)...",
+      body: "Apprentissage de langages de programmation et réalisation de projets profesionnalisants comme la construction des sites web responsives et dynamiques, la création des APIs et des bases de données sécurisées, l'optimisation des performances et la réalisation la maintenance de sites web déjà existants, l'amélioration du référencement naturel (SEO)...",
       year: 'Mars 2022 - Novembre 2022',
       link: 'https://example.com',
     },
@@ -219,6 +219,7 @@ const CONFIG = {
     themes: [
       'winter',
       'dark',
+      'black',
     ],
 
     // Custom theme, applied to `procyon` theme
