@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/aperbet56/page_print_chrome_extension',
         },
         {
-          title: 'Extension Chrome Page Translator',
+          title: 'Extension Chrome : Page Translator',
           description:
             "Création d'une extension Chrome nommée Page Translator qui permet à l'utilisateur de traduire la page web sur laquelle il se trouve en fonction du langage qu'il a choisi au préalable.",
           imageUrl:
             'https://img.freepik.com/vecteurs-libre/illustration-dessinee-main-services-traduction_23-2151109064.jpg?t=st=1738081229~exp=1738084829~hmac=ca2cddb94756b80b361b55bdfc5ac799e69b52c6ab17b99be2587b7cfaf36b7b&w=740',
-          link: 'https://github.com/aperbet56/page_print_chrome_extension',
+          link: 'https://github.com/aperbet56/extension_chrome_page_translator',
         },
       ],
     },
